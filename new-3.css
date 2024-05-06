@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: rosybrown;
+}
+h1 {
+  color:pink;
+  text-decoration: underline;
+}
+h1 {
+  text-align: center;
+}
+p {
+  color: white;
+}
+img {
+  border-radius: 20px;
+  border-width: thick;
+  border-color: white;
+  border-style: groove;
+}
